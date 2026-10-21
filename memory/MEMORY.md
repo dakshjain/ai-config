@@ -1,0 +1,2 @@
+- [Local files, not Artifacts](prefer-local-files.md) — save dashboards/pages under ~/Documents and `open` them
+- [Push back on my plans](push-back-on-plans.md) — disagree before implementing, with the trade-off
