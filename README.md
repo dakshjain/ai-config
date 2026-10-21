@@ -49,8 +49,9 @@ line make the agent make a mistake? If not, it goes.
   with no memory of the session that produced the plan. An agent reviewing its
   own work tends to agree with itself, so the reviewer gets isolation.
   It returns a verdict (PASS / REVISE / FAIL) with findings by severity. The
-  reviewer itself (Critical Thinking Agent) lives in a separate repo, not yet
-  public.
+  reviewer is my
+  [Critical Thinking Agent](https://github.com/dakshjain/critical-thinking-agent):
+  clone it to `~/critical-thinking-agent` for `/critique` to work.
 - **Cross-model review.** Grok and Codex review the final output. CLAUDE.md
   tells Claude to write checkable claims (file, command, result) for that
   reason.
