@@ -1,0 +1,6 @@
+.env*
+settings.local.json
+CLAUDE.local.md
+*.jsonl
+projects/
+todos/
